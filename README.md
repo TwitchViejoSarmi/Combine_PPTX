@@ -9,7 +9,7 @@ El objetivo del siguiente programa es juntar todas las presentaciones de Power P
 1. Instale las dependencias del programa localizadas en el archivo `requirements.txt`.
 2. Indique en el archivo `.env` la ruta que contiene las presentaciones a juntar.
 3. Cierre las presentaciones que desea copiar si las tiene abiertas.
-## Cómo usar
+## Cómo Usar
 Simplemente ejecute el archivo `main.py` y espere a que el programa le notifique que ha terminado el proceso de copiado.
 ![alt text](image.png)
 La presentación generada se encontrará en una carpeta llamada `output`.
